@@ -1,78 +1,60 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Evan Kim - Web Developer</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      padding: 20px;
-      background-color: #f7f7f7;
-    }
-    h1 {
-      color: #333;
-      font-size: 28px;
-      margin-bottom: 20px;
-    }
-    h2 {
-      color: #555;
-      font-size: 22px;
-      margin-bottom: 15px;
-    }
-    p {
-      color: #666;
-      font-size: 16px;
-      margin-bottom: 10px;
-    }
-    ul {
-      list-style-type: disc;
-      margin-left: 20px;
-      margin-bottom: 10px;
-    }
-    .section {
-      margin-bottom: 30px;
-    }
-  </style>
-</head>
-<body>
-  <h1>Evan Kim</h1>
-  <h2>Web Developer</h2>
-  
-  <div class="section">
-    <h2>About Me</h2>
-    <p>I recently finished the Southern Alberta Institute of Technology Software Development Diploma program in Calgary. As a recent graduate, I am passionate about web development and eager to apply my skills in a professional setting. I am highly motivated, detail-oriented, and dedicated to delivering high-quality work.</p>
-  </div>
-  
-  <div class="section">
-    <h2>Skills and Technologies</h2>
-    <ul>
-      <li>HTML5</li>
-      <li>CSS3</li>
-      <li>JavaScript</li>
-      <li>ReactJS</li>
-      <li>Node.js</li>
-      <li>SQL</li>
-      <li>MongoDB</li>
-      <li>Git</li>
-      <li>GitHub</li>
-      <li>Visual Studio Code</li>
-    </ul>
-    <p>I am continuously expanding my skills and staying up-to-date with the latest technologies in web development. I enjoy working with frontend technologies like HTML5, CSS3, and JavaScript to create engaging and interactive user interfaces. On the backend, I have experience with Node.js, Express.js, and working with databases like SQL and MongoDB. I am proficient in using Git and GitHub for version control, and Visual Studio Code is my go-to editor for development.</p>
-  </div>
-  
-  <div class="section">
-    <h2>Projects</h2>
-    <ul>
-      <li>Personal Training Booking System - Collaborated with a team to develop a web application for booking personal training sessions using Node.js, Express.js, MongoDB, React.js, and Bootstrap.</li>
-      <li>Home Inventory Web App - Worked with a team to create a web application called "HomeInventoryApp" using JavaScript, HTML, CSS, Node.js, and MongoDB.</li>
-      <li>Personal Memory Web App - Completed "PersonalMemoryApp," a full-stack web application project using the MERN stack.</li>
-    </ul>
-  </div>
-  
-  <div class="section">
-    <h2>Contact</h2>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/evan977512/">https://www.linkedin.com/in/evan977512/</a></p>
-  </div>
-</body>
-</html>
+# 👋 Evan Kim
+
+## 🌟 Introduction
+
+Hello! I'm Evan Kim, a recent graduate of the Southern Alberta Institute of Technology Software Development Diploma program in Calgary. I'm passionate about web development and excited to contribute my skills as a Web Developer. I am currently looking for opportunities in Vancouver. 
+
+## 🚀 Projects
+
+### 📦 Home Inventory Web App
+
+- Collaborated with a team of developers to create a web application called "HomeInventoryApp" using JavaScript, HTML, CSS, Node.js, and MongoDB.
+- Played a significant role in the frontend development of the app, focusing on designing and implementing the user interface and enhancing the overall user experience.
+- Leveraged my skills in web design and frontend development to create visually appealing and intuitive features, ensuring a seamless interaction for users.
+
+### 📚 Personal Memory Web App
+
+- Completed "PersonalMemoryApp," a full-stack web application project using the MERN stack, showcasing autonomous work and ownership of the development process.
+- Led back-end RESTful API development using Node.js and Express, from database schema design to implementing CRUD operations on MongoDB for efficient data management.
+- Demonstrated strong full-stack skills, covering the entire development process from schema design to web server deployment.
+- 🌐 [Personal Memory Web App](https://mern-third-frontend.web.app/)
+
+### 💪 Personal Training Booking System
+
+- Collaborated with a team to develop a personal training booking system web application called 'BodyAndSoul' using Node.js, Express.js, MongoDB, React.js, and Bootstrap.
+- Contributed to both the front-end and back-end development of the application, with a focus on developing the back-end and integrating APIs.
+- Actively communicated with the client throughout the development process to ensure that their needs and requirements were met, and that the project stayed on track.
+- 🌐 [Personal Training Booking System](https://bodyandsoul.herokuapp.com/)
+
+## 🛠️ Skills and Technologies
+<div class="section">
+  <h2>Skills and Technologies</h2>
+  <ul>
+    <li><img src="https://img.shields.io/badge/-HTML5-orange" alt="HTML5"> HTML5</li>
+    <li><img src="https://img.shields.io/badge/-CSS3-blue" alt="CSS3"> CSS3</li>
+    <li><img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript"> JavaScript</li>
+    <li><img src="https://img.shields.io/badge/-TypeScript-3178C6" alt="TypeScript"> TypeScript</li>
+    <li><img src="https://img.shields.io/badge/-ReactJS-61DAFB" alt="ReactJS"> ReactJS</li>
+    <li><img src="https://img.shields.io/badge/-Node.js-339933" alt="Node.js"> Node.js</li>
+    <li><img src="https://img.shields.io/badge/-SQL-4479A1" alt="SQL"> SQL</li>
+    <li><img src="https://img.shields.io/badge/-MongoDB-47A248" alt="MongoDB"> MongoDB</li>
+    <li><img src="https://img.shields.io/badge/-Git-F05032" alt="Git"> Git</li>
+    <li><img src="https://img.shields.io/badge/-GitHub-181717" alt="GitHub"> GitHub</li>
+    <li><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC" alt="Visual Studio Code"> Visual Studio Code</li>
+    <li><img src="https://img.shields.io/badge/-Java-007396" alt="Java"> Java</li>
+    <li><img src="https://img.shields.io/badge/-Eclipse-2C2255" alt="Eclipse"> Eclipse</li>
+  </ul>
+  <p>I am continuously expanding my skills and staying up-to-date with the latest technologies in web development. I enjoy working with frontend technologies like HTML5, CSS3, and JavaScript (including TypeScript) to create engaging and interactive user interfaces. On the backend, I have experience with Node.js, Express.js, and working with databases like SQL and MongoDB. I am proficient in using Git and GitHub for version control, and Visual Studio Code is my go-to editor for development. Additionally, I have experience in Java programming and using the Eclipse IDE for developing Java applications.</p>
+</div>
+
+## 📞 Contact Information
+
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/evan977512/)
+
+## ⚡ Fun Fact
+
+- I studied classical music and I am a Cellist.
+- I am also a RCM (Royal Conservatory of Music) teacher in Calgary.
+- In my free time, I enjoy wall climbing.
+
+Feel free to reach out to me for any collaboration or opportunities. Let's connect and create something amazing together! ✨🚀
