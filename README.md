@@ -41,11 +41,11 @@ Hello! I'm Evan Kim, a recent graduate of the Southern Alberta Institute of Tech
   <h2>Skills and Technologies</h2>
   <h3>Frontend</h3>
   <ul>
-    <img src="https://img.shields.io/badge/-HTML-orange" alt="HTML" width="120" hight="50">
-    <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS"width="120" hight="50">
-    <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" width="120" hight="50">
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6" alt="TypeScript" width="120" hight="50">
-    <img src="https://img.shields.io/badge/-ReactJS-61DAFB" alt="ReactJS" width="120" hight="50">
+    <img src="https://img.shields.io/badge/-HTML-orange" alt="HTML" width="120" height="50">
+    <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS"width="120" height="50">
+    <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" width="120" height="50">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6" alt="TypeScript" width="120" height="50">
+    <img src="https://img.shields.io/badge/-ReactJS-61DAFB" alt="ReactJS" width="120" height="50">
   </ul>
 
   <h3>Backend</h3>
@@ -58,8 +58,8 @@ Hello! I'm Evan Kim, a recent graduate of the Southern Alberta Institute of Tech
 
   <h3>Version Control</h3>
   <ul>
-    <img src="https://img.shields.io/badge/-Git-F05032" alt="Git">
-    <img src="https://img.shields.io/badge/-GitHub-181717" alt="GitHub">
+    <img src="https://img.shields.io/badge/-Git-F05032" alt="Git" hight="50">
+    <img src="https://img.shields.io/badge/-GitHub-181717" alt="GitHub" hight="50">
   </ul>
 
   <h3>Other</h3>
