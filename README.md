@@ -50,16 +50,16 @@ Hello! I'm Evan Kim, a recent graduate of the Southern Alberta Institute of Tech
 
   <h3>Backend</h3>
   <ul>
-    <img src="https://img.shields.io/badge/-Node.js-339933" alt="Node.js" width="120" hight="50">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248" alt="MongoDB" width="120" hight="50">
-    <img src="https://img.shields.io/badge/-SQL-4479A1" alt="SQL" width="120" hight="50">
-    <img src="https://img.shields.io/badge/-SQL%20Server-CC2927" alt="SQL Server" width="120" hight="50">
+    <img src="https://img.shields.io/badge/-Node.js-339933" alt="Node.js"  height="50">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248" alt="MongoDB"  height="50">
+    <img src="https://img.shields.io/badge/-SQL-4479A1" alt="SQL"  height="50">
+    <img src="https://img.shields.io/badge/-SQL%20Server-CC2927" alt="SQL Server" height="50">
   </ul>
 
   <h3>Version Control</h3>
   <ul>
-    <img src="https://img.shields.io/badge/-Git-F05032" alt="Git" hight="50">
-    <img src="https://img.shields.io/badge/-GitHub-181717" alt="GitHub" hight="50">
+    <img src="https://img.shields.io/badge/-Git-F05032" alt="Git" height="50">
+    <img src="https://img.shields.io/badge/-GitHub-181717" alt="GitHub" height="50">
   </ul>
 
   <h3>Other</h3>
