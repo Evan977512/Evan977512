@@ -43,17 +43,17 @@ Hello! I'm Evan Kim, a recent graduate of the Southern Alberta Institute of Tech
   <ul>
     <img src="https://img.shields.io/badge/-HTML-orange" alt="HTML" width="120" hight="50">
     <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS"width="120" hight="50">
-    <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript"width="120" hight="50">
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6" alt="TypeScript"width="120" hight="50">
-    <img src="https://img.shields.io/badge/-ReactJS-61DAFB" alt="ReactJS"width="120" hight="50">
+    <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" width="120" hight="50">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6" alt="TypeScript" width="120" hight="50">
+    <img src="https://img.shields.io/badge/-ReactJS-61DAFB" alt="ReactJS" width="120" hight="50">
   </ul>
 
   <h3>Backend</h3>
   <ul>
-    <img src="https://img.shields.io/badge/-Node.js-339933" alt="Node.js">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248" alt="MongoDB">
-    <img src="https://img.shields.io/badge/-SQL-4479A1" alt="SQL">
-    <img src="https://img.shields.io/badge/-SQL%20Server-CC2927" alt="SQL Server">
+    <img src="https://img.shields.io/badge/-Node.js-339933" alt="Node.js" width="120" hight="50">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248" alt="MongoDB" width="120" hight="50">
+    <img src="https://img.shields.io/badge/-SQL-4479A1" alt="SQL" width="120" hight="50">
+    <img src="https://img.shields.io/badge/-SQL%20Server-CC2927" alt="SQL Server" width="120" hight="50">
   </ul>
 
   <h3>Version Control</h3>
