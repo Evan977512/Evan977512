@@ -1,8 +1,16 @@
-# Hello,👋 I am Evan Kim 
+# Hello,👋 I am Evan Kim
 
 ## 🌟 Introduction
 
-Hello! I'm Evan Kim, a recent graduate of the Southern Alberta Institute of Technology Software Development Diploma program in Calgary. I'm passionate about web development and excited to contribute my skills as a Web Developer. I am currently looking for opportunities in Vancouver. 
+Hello! I'm Evan Kim, a recent graduate of the Southern Alberta Institute of Technology Software Development Diploma program in Calgary. I'm passionate about web development and excited to contribute my skills as a Web Developer. I am currently looking for opportunities in Vancouver.
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+</br>
+</br>
+</br>
 
 ## 🚀 Projects
 
@@ -40,7 +48,6 @@ Hello! I'm Evan Kim, a recent graduate of the Southern Alberta Institute of Tech
 - I studied classical music and I am a Cellist.
 - I am also a RCM (Royal Conservatory of Music) teacher in Calgary.
 - In my free time, I enjoy wall climbing.
-
 
 ## 📞 Contact Information
 
