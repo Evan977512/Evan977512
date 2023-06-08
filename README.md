@@ -4,6 +4,15 @@
 
 Hello! I'm Evan Kim, a recent graduate of the Southern Alberta Institute of Technology Software Development Diploma program in Calgary. I'm passionate about web development and excited to contribute my skills as a Web Developer. I am currently looking for opportunities in Vancouver. 
 
+<div align="center">
+<img hight="300" width="400" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+</div>
+
+</br>
+</br>
+</br>
+
+
 ## 🚀 Projects
 
 ### 📦 Home Inventory Web App
