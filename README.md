@@ -41,11 +41,11 @@ Hello! I'm Evan Kim, a recent graduate of the Southern Alberta Institute of Tech
   <h2>Skills and Technologies</h2>
   <h3>Frontend</h3>
   <ul>
-    <li><img src="https://img.shields.io/badge/-HTML-orange" alt="HTML"></li>
-    <li><img src="https://img.shields.io/badge/-CSS-blue" alt="CSS"></li>
-    <li><img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript"></li>
-    <li><img src="https://img.shields.io/badge/-TypeScript-3178C6" alt="TypeScript"></li>
-    <li><img src="https://img.shields.io/badge/-ReactJS-61DAFB" alt="ReactJS"></li>
+    <img src="https://img.shields.io/badge/-HTML-orange" alt="HTML">
+    <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS">
+    <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6" alt="TypeScript">
+    <img src="https://img.shields.io/badge/-ReactJS-61DAFB" alt="ReactJS">
   </ul>
 
   <h3>Backend</h3>
