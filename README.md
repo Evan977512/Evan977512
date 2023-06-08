@@ -33,7 +33,7 @@ Hello! I'm Evan Kim, a recent graduate of the Southern Alberta Institute of Tech
 - Back-End Development: NodeJS
 - Databases: SQL, SQL Server, PL/SQL, MongoDB
 - Version Control: Git, GitHub
-- Tools: Visual Studio Code, Figma
+- Tools: Visual Studio Code, Figma, Eclipse
 
 ## ⚡ Fun fact
 
