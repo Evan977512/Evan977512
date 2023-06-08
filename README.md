@@ -64,9 +64,9 @@ Hello! I'm Evan Kim, a recent graduate of the Southern Alberta Institute of Tech
 
   <h3>Other</h3>
   <ul>
-    <li><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC" alt="Visual Studio Code"></li>
-    <li><img src="https://img.shields.io/badge/-Java-007396" alt="Java"></li>
-    <li><img src="https://img.shields.io/badge/-Eclipse-2C2255" alt="Eclipse"></li>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC" alt="Visual Studio Code" height="50">
+    <img src="https://img.shields.io/badge/-Java-007396" alt="Java" height="50">
+    <img src="https://img.shields.io/badge/-Eclipse-2C2255" alt="Eclipse" height="50">
   </ul>
 
   <p>I am continuously expanding my skills and staying up-to-date with the latest technologies in web development. I enjoy working with frontend technologies like HTML5, CSS3, and JavaScript (including TypeScript) to create engaging and interactive user interfaces. On the backend, I have experience with Node.js, Express.js, and working with databases like SQL and MongoDB. I am proficient in using Git and GitHub for version control, and Visual Studio Code is my go-to editor for development. Additionally, I have experience in Java programming and using the Eclipse IDE for developing Java applications. I am also familiar with SQL Server for efficient data management.</p>
