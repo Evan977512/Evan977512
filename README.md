@@ -29,8 +29,6 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -44,7 +42,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+    <img alt="ubuntu" src="https://img.shields.io/badge/-ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="microsoftsqlserver" src="https://img.shields.io/badge/-microsoftsqlserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 
 
 </p>
