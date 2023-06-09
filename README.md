@@ -78,8 +78,7 @@
 </br>
 </br>
 </br>
-</br>
-</br>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </br>
 
   <p>I am continuously expanding my skills and staying up-to-date with the latest technologies in web development.</p> 
