@@ -75,6 +75,13 @@
 - Actively communicated with the client throughout the development process to ensure that their needs and requirements were met, and that the project stayed on track.
 - 🌐 [Personal Training Booking System](https://bodyandsoul.herokuapp.com/)
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
   <p>I am continuously expanding my skills and staying up-to-date with the latest technologies in web development.</p> 
   <p>I enjoy working with frontend technologies like HTML5, CSS3, and JavaScript (including TypeScript) to create engaging and interactive user interfaces.</p> 
   <p>On the backend, I have experience with Node.js, Express.js, and working with databases like SQL and MongoDB. </p> 
