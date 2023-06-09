@@ -44,7 +44,7 @@
   <img alt="javascript" src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="ubuntu" src="https://img.shields.io/badge/-ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="microsoftsqlserver" src="https://img.shields.io/badge/-microsoftsqlserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img alt="microsoftsqlserver" src="https://img.shields.io/badge/-microsoftsqlserver-CC2927?style=flat-square&logo=microsoft sql server&logoColor=white" />
     <img alt="yarn" src="https://img.shields.io/badge/-yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
 
 
