@@ -48,6 +48,9 @@
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="visualstudiocode" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="eclipseide" src="https://img.shields.io/badge/-Eclipse_Ide-2C2255?style=flat-square&logo=eclipseide&logoColor=white" />
+  <img alt="apachenetbeanside" src="https://img.shields.io/badge/-Apache_Netbeans_Ide-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" />
+  <img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+
 
 
 
